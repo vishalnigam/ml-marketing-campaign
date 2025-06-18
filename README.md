@@ -44,10 +44,10 @@ depposit with lucrative interest rate. Contacts campaign data mainly comprise of
 
 **Modeling**
 - Run all the classifier algorithms - KNN, Logistic regression, Decision Tree and SVM, with default hyperparameters
-  ![Model Performance - Before] (/images/Model Performance - After.png)
+ ![Model Performance - Before](<images/Model Performance - Before.png>)
 - Execute cross validation with chosen hyper-parameters for different Algorithms respectively
 - Model with the best estimators in individual classifiers 
-  ![Model Performance - After] (/images/Model Performance - Before.png)
+ ![Model Performance - After](<images/Model Performance - After.png>)
 
 **Recommandations** :
 - Further analysis is needed to segment blue collar segment to increase the turn-around which usually have higher
@@ -57,4 +57,4 @@ depposit with lucrative interest rate. Contacts campaign data mainly comprise of
 - Increase contact points with prospective customers in the month of '_May_' & '_July'
 
 # Link to Jupyter notebook
-[notebook link](https://github.com/vishalnigam/ml-marketing-campaign/blob/main/ml-maeketing-campaign.ipynb)
+[notebook link](https://github.com/vishalnigam/ml-marketing-campaign/blob/main/ml-marketing-campaign.ipynb)

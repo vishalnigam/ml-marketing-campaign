@@ -1,11 +1,3 @@
-# H1
-**H2**
-- indentation
-_italics_
-__bold__ 
-[text link](https://...)
-`highlight`
-
 # ml-marketing-campaign
 The provided dataset contains ~411k records related with marketing campaign run by bank to attract consumers for term
 depposit with lucrative interest rate. Contacts campaign data mainly comprise of first and final contact data however, only the numbers of intermediate contacts with prospective customer to be retained rather then the complete feature data. 
